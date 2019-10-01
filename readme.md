@@ -1,6 +1,6 @@
 # shirts-are-harder-than-you-think
 
-https://shirts-are-harder-than-you-think.netlify.com/
+https://dont-mock-haute-couture.netlify.com/
 
 Because Bruce Lawson [told me to](https://twitter.com/brucel/status/1178991264487936000).
 
